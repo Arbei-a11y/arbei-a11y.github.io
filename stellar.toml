@@ -1,9 +1,0 @@
-VERSION="2.0.0"
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-
-[[CURRENCIES]]
-code="BETA1"
-issuer="GDEOMBHFGRQORTYSNSX6H6WSGXXRKMEAEFTDSTLO7LX6NB3UPV7MTTYD"
-name="Beta coin"
-desc="This is a BETA1 Linux distro development project, and this token will give a 3% airdrop if the user buys 1000 BETA1, there will be a buyback every 1 week"
-image="https://arbei-a11y.github.io/.well-known/a.png"

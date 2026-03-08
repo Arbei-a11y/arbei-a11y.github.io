@@ -1,0 +1,12 @@
+VERSION="2.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_LOGO = "https://ibb.co.com/n8Z3mbFZ"
+
+[[CURRENCIES]]
+code="XLM"
+issuer="GBD4WFNUZNMO2I7U3O7D5MQFTGLU7YBAKAGZDVB5RTWRGIDCRM4DE7RW"
+name="XLM"
+desc="XLM IN XLM"
+image="https://ibb.co.com/n8Z3mbFZ"
